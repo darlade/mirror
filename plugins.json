@@ -23,8 +23,8 @@
     "id": "mirror-plugin",
     "releases": [
       {
-        "date": "2021-02-27",
-        "sha512sum": "68BF91E11A1818195BFAEBCC0AB21B247633FF7F82579DA9F671A79BEEF884FCA350F196EEABF676252702ED4BA1574051FECD51DC9E3E89755DC5020EC42F96",
+        "date": "2021-08-03",
+        "sha512sum": "75c343603de6807935b64506f511b4f316a5d7a568374cb75bbdf036509ed41a04a4fb7fd4f8968a68e8ccfeb8a10fdd5499590b5ca65d5cf7a163263428be21",
         "version": "0.0.6",
         "url": "https://github.com/darlade/mirror/blob/main/plugins/mirror-0.0.6.jar?raw=true",
         "requires": "^1.0.0"
