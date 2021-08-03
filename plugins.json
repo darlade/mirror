@@ -18,6 +18,22 @@
   {
     "projectUrl": "https://discord.gg/WUP22Dj7GT",
     "provider": "xKylee",
+    "name": "Never Logout",
+    "description": "Remove 5 minute idle logout timer.",
+    "id": "neverlogout-plugin",
+    "releases": [
+      {
+        "date": "2021-02-27",
+        "sha512sum": "68BF91E11A1818195BFAEBCC0AB21B247633FF7F82579DA9F671A79BEEF884FCA350F196EEABF676252702ED4BA1574051FECD51DC9E3E89755DC5020EC42F96",
+        "version": "4.0.0",
+        "url": "https://github.com/darlade/mirror/blob/main/plugins/neverlogout-4.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/WUP22Dj7GT",
+    "provider": "xKylee",
     "name": "Mirror",
     "description": "Duplicates game view in another window, removing any overlays created by custom plugins.",
     "id": "mirror-plugin",
